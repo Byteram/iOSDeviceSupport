@@ -236,3 +236,69 @@ bash <(curl -s https://raw.githubusercontent.com/filsv/iOSDeviceSupport/master/s
 >[Comment](https://github.com/filsv/iPhoneOSDeviceSupport/issues/76#issuecomment-735321146)
 
 Xcode usage license - [Link](https://www.apple.com/legal/sla/docs/xcode.pdf).
+
+---
+
+# iPhone Config
+
+### Developer
+
+_OBS: Only the necessary configs are going to be mentioned_
+
+### UI AUTOMATION
+Enable UI Automatio: **ON**
+
+### PERFORMANCE
+Hang Detection: **OFF**
+
+### NETWORKING
+Network Link Conditioner: **ON**
+Multipath Networking: **ON**
+L4S: **ON**
+
+### UNIVERSAL LINKS
+Associated Domains Development: **ON**
+
+### AD ATTIBUTION TESTING
+AdAttributionKit Developer Mode: **ON**
+
+### STATE RESTORATION TESTING
+Fast App Termination: **ON**
+
+### AUTHENTICATION SERVICES TESTING
+Credential Exchange: **ON**
+
+### WALLET TESTING
+Additional Logging: **OFF**
+Allow HTTP Services: **OFF**
+Disable Rate Limiting: **OFF**
+NFC Pass Key Optional: **OFF**
+
+### AIRPLAY TESTING
+Use Route Sharing Policy: **OFF**
+
+### WIDGET TESTING
+WidgetKit Developer Mode: **OFF**
+
+### SHORTCUTS TESTING
+Display Recent Shortcuts: **OFF**
+Display Upcoming Media: **OFF**
+Display Donations on Lock Screen: **OFF**
+
+### SIRI EVENT SUGGESTIONS TESTING
+Allow Any Domain: **OFF**
+Allow Unverified Sources: **OFF**
+
+### MIDI-CI TESTING
+Enable MIDI-CI: **OFF**
+
+### GRAPHICS HUD
+Show Graphics Performance: **OFF**
+Log Graphics Performance: **OFF**
+
+### BLUETOOTH LOGGING
+HID Logging: **OFF**
+Heart Rate Logging: **OFF**
+
+### SIRI IN BLUETOOTH CAR TESTING
+Show Audio Output in Settings: **OFF**
