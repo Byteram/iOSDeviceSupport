@@ -249,11 +249,11 @@ _OBS: Only the necessary configs are going to be mentioned_
 Enable UI Automatio: **ON**
 
 ### PERFORMANCE
-Hang Detection: **OFF**
+Hang Detection: **OFF*
 
 ### NETWORKING
-Network Link Conditioner: **ON**
-Multipath Networking: **ON**
+Network Link Conditioner: **ON** </br>
+Multipath Networking: **ON**</br>
 L4S: **ON**
 
 ### UNIVERSAL LINKS
@@ -269,9 +269,9 @@ Fast App Termination: **ON**
 Credential Exchange: **ON**
 
 ### WALLET TESTING
-Additional Logging: **OFF**
-Allow HTTP Services: **OFF**
-Disable Rate Limiting: **OFF**
+Additional Logging: **OFF** </br>
+Allow HTTP Services: **OFF** </br>
+Disable Rate Limiting: **OFF** </br>
 NFC Pass Key Optional: **OFF**
 
 ### AIRPLAY TESTING
@@ -281,23 +281,23 @@ Use Route Sharing Policy: **OFF**
 WidgetKit Developer Mode: **OFF**
 
 ### SHORTCUTS TESTING
-Display Recent Shortcuts: **OFF**
-Display Upcoming Media: **OFF**
+Display Recent Shortcuts: **OFF** </br>
+Display Upcoming Media: **OFF** </br>
 Display Donations on Lock Screen: **OFF**
 
 ### SIRI EVENT SUGGESTIONS TESTING
-Allow Any Domain: **OFF**
+Allow Any Domain: **OFF** </br>
 Allow Unverified Sources: **OFF**
 
 ### MIDI-CI TESTING
 Enable MIDI-CI: **OFF**
 
 ### GRAPHICS HUD
-Show Graphics Performance: **OFF**
+Show Graphics Performance: **OFF** </br>
 Log Graphics Performance: **OFF**
 
 ### BLUETOOTH LOGGING
-HID Logging: **OFF**
+HID Logging: **OFF** </br>
 Heart Rate Logging: **OFF**
 
 ### SIRI IN BLUETOOTH CAR TESTING
