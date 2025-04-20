@@ -251,7 +251,7 @@ Enable UI Automatio: **ON**
 ### PERFORMANCE
 Hang Detection: **OFF*
 
-### NETWORKING
+### ⚠️ NETWORKING ⚠️
 Network Link Conditioner: **ON** </br>
 Multipath Networking: **ON**</br>
 L4S: **ON**
